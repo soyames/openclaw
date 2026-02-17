@@ -13,7 +13,7 @@ Vous avez déjà suivi [Premiers pas](/fr-FR/start/getting-started) ? Vous êtes
 
 ## Configuration système requise
 
-- **[Node 22+](/fr-FR/install/node)** (le [script d'installation](#methodes-dinstallation) l'installera s'il manque)
+- **[Node 22+](/fr-FR/install/node)** (le [script d'installation](#méthodes-dinstallation) l'installera s'il manque)
 - macOS, Linux ou Windows
 - `pnpm` uniquement si vous construisez depuis la source
 

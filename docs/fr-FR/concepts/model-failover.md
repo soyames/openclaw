@@ -126,7 +126,7 @@ Valeurs par défaut :
 - Le backoff de facturation commence à **5 heures**, double par échec de facturation, et plafonne à **24 heures**.
 - Les compteurs de backoff se réinitialisent si le profil n'a pas échoué pendant **24 heures** (configurable).
 
-## Basculement de modèle
+## Basculement vers un autre modèle
 
 Si tous les profils d'un fournisseur échouent, OpenClaw passe au modèle suivant dans
 `agents.defaults.model.fallbacks`. Cela s'applique aux échecs d'authentification, limites de taux et

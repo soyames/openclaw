@@ -41,7 +41,7 @@ fly volumes create openclaw_data --size 1 --region iad
 
 Modifiez `fly.toml` pour correspondre au nom de votre application et à vos besoins.
 
-**Note de sécurité :** La configuration par défaut expose une URL publique. Pour un déploiement renforcé sans IP publique, consultez [Déploiement privé](#deploiement-prive-renforce) ou utilisez `fly.private.toml`.
+**Note de sécurité :** La configuration par défaut expose une URL publique. Pour un déploiement renforcé sans IP publique, consultez [Déploiement privé renforcé](#déploiement-privé-renforcé) ou utilisez `fly.private.toml`.
 
 ```toml
 app = "my-openclaw"  # Nom de votre application

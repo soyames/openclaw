@@ -73,7 +73,7 @@ Si nécessaire, vous pouvez aussi définir `OPENCLAW_HOME` pour contrôler le r�
 Lors de l'exécution sous Nix, définissez-les explicitement vers des emplacements gérés par Nix afin que l'état d'exécution et la configuration
 restent hors du magasin immuable.
 
-### Comportement d'exécution en mode Nix
+### Flux d'auto-installation et bannière en mode Nix
 
 - Les flux d'auto-installation et d'auto-mutation sont désactivés
 - Les dépendances manquantes affichent des messages de remédiation spécifiques à Nix
