@@ -20,6 +20,10 @@ ui/test-results/
 packages/dashboard-next/.next/
 packages/dashboard-next/out/
 
+# Local cleanup tools (never commit)
+bfg.jar
+passwords.txt
+
 # Mise configuration files
 mise.toml
 
